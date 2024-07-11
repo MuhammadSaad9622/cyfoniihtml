@@ -3588,8 +3588,8 @@ img.mfp-img {
   margin-top: 30px;
 }
 .box-testimonial .info img {
-  width: 90px;
-  height: 90px;
+  width: 100px;
+  height: 127px;
   object-fit: cover;
   object-position: right;
   border-radius: 50%;
